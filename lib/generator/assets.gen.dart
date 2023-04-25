@@ -15,16 +15,8 @@ class $AssetsImagesGen {
   AssetGenImage get appIcon =>
       const AssetGenImage('assets/images/app_icon.png');
 
-  /// File path: assets/images/app_logo.png
-  AssetGenImage get appLogo =>
-      const AssetGenImage('assets/images/app_logo.png');
-
   /// File path: assets/images/pokedex.png
-  AssetGenImage get pokedex => const AssetGenImage('assets/images/pokedex.png');
-
-  /// File path: assets/images/splash_logo.png
-  AssetGenImage get splashLogo =>
-      const AssetGenImage('assets/images/splash_logo.png');
+  AssetGenImage get pokeapp => const AssetGenImage('assets/images/pokeapp.png');
 }
 
 class Assets {
