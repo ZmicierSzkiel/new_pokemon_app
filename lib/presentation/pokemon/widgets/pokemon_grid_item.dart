@@ -18,7 +18,7 @@ class PokemonGridItem extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: () => context.push(PokemonInfoPage(pokemon)),
+      onTap: () => context.push(PokemonInfo(pokemon)),
       child: Container(
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(Insets.xs),
