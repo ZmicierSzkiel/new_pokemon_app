@@ -25,7 +25,7 @@ class FloatingButton extends StatelessWidget {
         }
       },
       backgroundColor: isPokemonMarkedAsFavourite
-          ? const Color.fromARGB(0, 213, 222, 255)
+          ? const Color(0xffD5DEFF)
           : AppColours.primaryColour,
       label: isPokemonMarkedAsFavourite
           ? const Text(

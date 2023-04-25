@@ -4,10 +4,10 @@ const String AppName = 'PokeApp';
 const double MaxGridExtent = 200;
 
 class AppColours {
-  static const primaryColour = Color.fromARGB(0, 53, 88, 205);
-  static const scaffoldColour = Color.fromARGB(0, 232, 232, 232);
-  static const textBodyColour = Color.fromARGB(0, 107, 107, 107);
-  static const textPrimaryColour = Color.fromARGB(0, 22, 26, 51);
+  static const primaryColour = Color(0xFF3558CD);
+  static const scaffoldColour = Color(0xFFE8E8E8);
+  static const textBodyColour = Color(0xFF6B6B6B);
+  static const textPrimaryColour = Color(0xFF161A33);
 }
 
 class LocalDbKeys {

@@ -62,8 +62,8 @@ class _TabBarHeader extends StatelessWidget {
       child: ColoredBox(
         color: Colors.white,
         child: TabBar(
-          unselectedLabelColor: const Color.fromARGB(0, 107, 107, 107),
-          labelColor: const Color.fromARGB(0, 22, 26, 51),
+          unselectedLabelColor: const Color(0xff6B6B6B),
+          labelColor: const Color(0xff161A33),
           indicatorColor: AppColours.primaryColour,
           labelPadding: const EdgeInsets.symmetric(vertical: Insets.xs),
           indicatorWeight: 3,
