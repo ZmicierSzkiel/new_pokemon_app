@@ -5,8 +5,6 @@ import 'package:new_pokemon_app/core/utils/extensions/context.dart';
 import 'package:new_pokemon_app/core/utils/extensions/string.dart';
 import 'package:new_pokemon_app/core/utils/pokemon_types.dart';
 
-import 'package:new_pokemon_app/core/widgets/gap.dart';
-import 'package:new_pokemon_app/core/widgets/loading_indicator.dart';
 import 'package:new_pokemon_app/core/widgets/image.dart';
 
 import 'package:new_pokemon_app/data/model/pokemon.dart';

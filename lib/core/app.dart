@@ -40,7 +40,7 @@ class PokeApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: AppName,
         theme: lightThemeData,
-        home: const AppScaffoldPage(),
+        home: const AppScaffold(),
       ),
     );
   }

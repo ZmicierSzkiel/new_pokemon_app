@@ -15,7 +15,7 @@ class $AssetsImagesGen {
   AssetGenImage get appIcon =>
       const AssetGenImage('assets/images/app_icon.png');
 
-  /// File path: assets/images/pokedex.png
+  /// File path: assets/images/pokeapp.png
   AssetGenImage get pokeapp => const AssetGenImage('assets/images/pokeapp.png');
 }
 
